@@ -257,7 +257,7 @@ ggplot(data=k,
        geom_line()
 ```
 
-![](codes_files/figure-gfm/unnamed-chunk-7-1.png)<!-- -->
+![unnamed-chunk-7-1.png](unnamed-chunk-7-1.png)<!-- -->
 
 ``` r
 # It seems that return and volatility does not have apparent relationship
@@ -279,7 +279,7 @@ ggplot(data=k,
 
     ## `geom_smooth()` using formula 'y ~ x'
 
-![](codes_files/figure-gfm/unnamed-chunk-8-1.png)<!-- -->
+![unnamed-chunk-8-1.png](unnamed-chunk-8-1.png)<!-- -->
 
 ``` r
 # Despite great fluctuation in volatility, it reverts around a mean value
@@ -294,7 +294,7 @@ qqnorm(BTC.r$.)
 qqline(BTC.r$., col = 2, lwd = 2)
 ```
 
-![](codes_files/figure-gfm/unnamed-chunk-9-1.png)<!-- -->
+![unnamed-chunk-9-1.png](unnamed-chunk-9-1.png)<!-- -->
 
 # Pricing ABC Notes with Monte Carlo Simulation and Heston Model
 
@@ -474,7 +474,7 @@ qqnorm(s.r)
 qqline(s.r, col = 2, lwd = 2) 
 ```
 
-![](codes_files/figure-gfm/unnamed-chunk-13-1.png)<!-- -->
+![unnamed-chunk-13-1.png](unnamed-chunk-13-1.png)<!-- -->
 
 ``` r
 # The function plot actual option price against simulated (predicted) price,
@@ -512,7 +512,7 @@ act_pre_plot(f.pre = f.pre1, data = Db)
     ## Predicted 1.0000000 0.4814905
     ## Actual    0.4814905 1.0000000
 
-![](codes_files/figure-gfm/unnamed-chunk-15-1.png)<!-- -->
+![unnamed-chunk-15-1.png](unnamed-chunk-15-1.png)<!-- -->
 
 Method 2: Minimizing the actual 30 day volatility and predicted
 volatility from Monte Carlo of Heston Model
@@ -619,7 +619,7 @@ qqnorm(s.r2)
 qqline(s.r2, col = 2, lwd = 2) 
 ```
 
-![](codes_files/figure-gfm/unnamed-chunk-19-1.png)<!-- -->
+![unnamed-chunk-19-1.png](unnamed-chunk-19-1.png)<!-- -->
 
 ``` r
 # Plotting actual price against predicted price, as well as their correlation
@@ -631,7 +631,7 @@ act_pre_plot(f.pre = f.pre2, data = Db)
     ## Predicted  1.000000 0.461307
     ## Actual     0.461307 1.000000
 
-![](codes_files/figure-gfm/unnamed-chunk-20-1.png)<!-- -->
+![unnamed-chunk-20-1.png](unnamed-chunk-20-1.png)<!-- -->
 
 ## Pricing the ABC Note
 
