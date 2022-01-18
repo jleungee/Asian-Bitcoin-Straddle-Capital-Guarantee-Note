@@ -1,4 +1,5 @@
 ## Asian Bitcoin Straddles Capital Guaranteed Note (ABC Note)
+Coauthors: Leung Sum Ming, Ho Tsz Chiu & Lin Jianan 
 
 Bitcoin is one of the best incarnations of a "High Risk High Return" asset. 
 We understand that many retail investors would like to profit from its high 
@@ -13,13 +14,7 @@ product, the Asian Bitcoin Straddle Capital Guaranteed Note (ABC Note), which
 
 4. one can profit no matter price surges or plummets.
 
-................................................................................
-................................................................................
-
-**Annualized return of 15% in the investment period between 2019-2021**
-
-................................................................................
-................................................................................
+5. Have an **Annualized return of 15% in the investment period between 2019-2021**
 
 To briefly describe the ABC notes, it is compromised with **24 long straddles** 
 which will be executed **monthly**. For each straddle, its 
