@@ -19,23 +19,13 @@ their backtesting results
 
 **Here are a few things to be noted:**
 
-1. Please do not alter the file locations/working directories of the data and
-the codebook.
-
-2. Please note that the five sections above are inter-related and 
-should be run one by one.
-
-3. The "current" date in this file is "2021-11-17" as it is when Bitcoin option 
+1. The "current" date in this file is "2021-11-17" as it is when Bitcoin option 
 prices are retrieved from outer sources (Deribit).
 
-4. It is not a must to run "Data from outer sources (csv and quantmod)" as it 
+2. It is not a must to run "Data from outer sources (csv and quantmod)" as it 
 is used to display how we get our raw data from csv/quantmod and you can 
 directly run "Data from outer sources (rds)". In other words, the inclusion 
 of csv files in the "data" file is completely extra and only for your reference.
 It will not affect the codes even if you delete all the csv files.
 
-5. There is a html file named "codes" in the "code" file and it is the knitted
-version of the R markdown file "codes" for your reference.
 
-6. The entire programs take around 50 minutes to run. Thanks very much for 
-your patience.
