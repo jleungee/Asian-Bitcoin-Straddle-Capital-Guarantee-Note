@@ -1,6 +1,47 @@
 ## Asian Bitcoin Straddles Capital Guaranteed Note (ABC Note)
 
-**This codebook have five sections:**
+Bitcoin is one of the best incarnations of a "High Risk High Return" asset. 
+We understand that many retail investors would like to profit from its high 
+return yet are deterred by its tedious volatility. Hence, we have designed a 
+product, the Asian Bitcoin Straddle Capital Guaranteed Note (ABC Note), which 
+
+1. guarantees your initial capital;
+
+2. mitigates the risk greatly;
+
+3. has low entry barrier; and
+
+4. one can profit no matter price surges or plummets.
+
+................................................................................
+................................................................................
+
+**Annualized return of 15% in the investment period between 2019-2021**
+
+................................................................................
+................................................................................
+
+To briefly describe the ABC notes, it is compromised with **24 long straddles** 
+which will be executed **monthly**. For each straddle, its 
+**strike price will be set as the mean Bitcoin price in the previous month** 
+and all the monthly payoffs will be **accumulated** and given to the investors 
+after 24 months.
+
+................................................................................
+................................................................................
+
+**Content of this project**
+1. README.md
+2. Summary Report that detailed the motivation, structure, hedging strategy of this project
+3. Codebook that includes: Background Research, 
+   Monte Carlo Simulation and Heston Model to price Bitcoin, backtesting, 
+   and Product Variants
+4. Graphs shown in the codebook
+
+................................................................................
+................................................................................
+
+**More details of the codebook:**
 
 1. Set-up - Import necessary libraries and data
 
