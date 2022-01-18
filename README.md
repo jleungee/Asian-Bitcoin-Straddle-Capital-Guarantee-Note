@@ -1,5 +1,5 @@
 ## Asian Bitcoin Straddles Capital Guaranteed Note (ABC Note)
-Coauthors: Leung Sum Ming, Ho Tsz Chiu & Lin Jianan 
+Co-authors: Leung Sum Ming, Ho Tsz Chiu & Lin Jianan 
 
 Bitcoin is one of the best incarnations of a "High Risk High Return" asset. 
 We understand that many retail investors would like to profit from its high 
