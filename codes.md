@@ -240,7 +240,7 @@ ggplot(data=k,
        geom_line()
 ```
 
-![unnamed-chunk-6-1.png](jleungee/Asian-Bitcoin-Straddle-Capital-Guarantee-Note/unnamed-chunk-6-1.png)<!-- -->
+![unnamed-chunk-6-1.png](unnamed-chunk-6-1.png)<!-- -->
 
 ``` r
 # We can see that when Bitcoin price increases, volatility decreases, vice versa
