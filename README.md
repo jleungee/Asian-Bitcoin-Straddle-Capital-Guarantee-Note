@@ -31,7 +31,7 @@ after 24 months.
 3. Codebook that includes: Background Research, 
    Monte Carlo Simulation and Heston Model to price Bitcoin, backtesting, 
    and Product Variants
-4. Graphs shown in the codebook
+4. Graphs shown in the codebook (all the unnamed chunks)
 
 ................................................................................
 ................................................................................
